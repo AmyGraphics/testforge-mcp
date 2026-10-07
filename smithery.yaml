@@ -1,0 +1,23 @@
+name: testforge-mcp
+displayName: TestForge - Autonomous Full-Stack QA, E2E Playwright & Vitest Engine MCP
+description: Universal full-stack QA and test architecture engine for Cursor, Claude & Windsurf. Generates complete Vitest/Jest unit test suites, enterprise Playwright E2E browser flows, hostile chaos/fuzz testing vectors, mock data factories, and CI/CD GitHub Actions pipelines.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/testforge-mcp
+repository: https://github.com/AmyGraphics/testforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/testforge-mcp/main/icon.png
+keywords:
+  - testing
+  - qa-automation
+  - playwright
+  - vitest
+  - jest
+  - cypress
+  - e2e-testing
+  - fuzzing
+  - unit-tests
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://testforge-api.agentweb-hub.workers.dev/mcp
